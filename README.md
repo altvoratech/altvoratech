@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![AltvoraTech Logo](https://via.placeholder.com/200x80/1a1a1a/00d9ff?text=AltvoraTech)
-
 **Transformando ideias em soluções digitais inteligentes**
 
 [![Website](https://img.shields.io/badge/Website-altvoratech.com-00d9ff?style=flat-square)](https://altvoratech.com)
