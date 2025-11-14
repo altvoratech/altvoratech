@@ -42,7 +42,7 @@ Integrações MCP (Model Context Protocol)
 
 Buscamos sempre unir boas práticas, escalabilidade e design inteligente.
 
-#$ O que fazemos
+## O que fazemos
 
 - Desenvolvimento de APIs e micro-serviços
 
