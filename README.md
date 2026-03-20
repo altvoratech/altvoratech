@@ -122,8 +122,9 @@ Nossos principais produtos e soluções incluem:
 
 Interessado em uma consultoria ou parceria técnica?
 
-- 📧 **Email**: [contato@altvoratech.com](mailto:contato@altvoratech.com)
+- 📧 **Email**: [contato@altvoratech.com](mailto:altvoratech@gmail.com)
 - 🌐 **Website**: [altvoratech.com](https://altvoratech.com)
+- 🌐 **blog**: [blueprintblog.tech](https://blueprintblog.tech)
 - 💼 **GitHub**: [@altvoratech](https://github.com/altvoratech)
 
 ---
